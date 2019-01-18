@@ -1,0 +1,14 @@
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\bin\Debug\netcoreapp2.2\restapi.deps.json
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\bin\Debug\netcoreapp2.2\restapi.runtimeconfig.json
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\bin\Debug\netcoreapp2.2\restapi.runtimeconfig.dev.json
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\bin\Debug\netcoreapp2.2\restapi.dll
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\bin\Debug\netcoreapp2.2\restapi.pdb
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\obj\Debug\netcoreapp2.2\restapi.csprojAssemblyReference.cache
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\obj\Debug\netcoreapp2.2\restapi.csproj.CoreCompileInputs.cache
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\obj\Debug\netcoreapp2.2\restapi.RazorAssemblyInfo.cache
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\obj\Debug\netcoreapp2.2\restapi.RazorAssemblyInfo.cs
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\obj\Debug\netcoreapp2.2\restapi.AssemblyInfoInputs.cache
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\obj\Debug\netcoreapp2.2\restapi.AssemblyInfo.cs
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\obj\Debug\netcoreapp2.2\restapi.RazorTargetAssemblyInfo.cache
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\obj\Debug\netcoreapp2.2\restapi.dll
+C:\Users\jagui\Dropbox\SeattleU\Winter19\assign1\SU_CPSC_5200_19WQ\restapi\obj\Debug\netcoreapp2.2\restapi.pdb
